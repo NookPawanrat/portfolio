@@ -66,8 +66,8 @@ function Project() {
             </div>
 
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                    <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Cat-ch Your Wishe</h2></a>
+                <a href="https://github.com/NookPawanrat/Web-E-Commerce-Cat-ch-Your-Wishes-.git" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                    <a href="https://github.com/NookPawanrat/Web-E-Commerce-Cat-ch-Your-Wishes-.git" target="_blank" rel="noreferrer"><h2>Cat-ch Your Wishe</h2></a>
                     <p>Developed E-Commerce website tailored for pre-ordering your desired 'products' (in this case, your wishes) to be fulfilled in 2024 using HTML CSS and JavaScript.</p>
                     {/* List of keyword or skill*/}
                     <div className="flex-chips">
