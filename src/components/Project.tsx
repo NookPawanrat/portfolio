@@ -53,8 +53,8 @@ function Project() {
             </div>
 
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                    <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>R Code Project Game</h2></a>
+                <a href="https://github.com/NookPawanrat/Web-Game-R-Code-Project.git" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
+                    <a href="https://github.com/NookPawanrat/Web-Game-R-Code-Project.git" rel="noreferrer"><h2>R Code Project Game</h2></a>
                     <p>Designed and developed a flight-simulator puzzle web-based game using HTML CSS Python and JavaScript.</p>
                     {/* List of keyword or skill*/}
                     <div className="flex-chips">
