@@ -16,7 +16,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2023 - present"
+            date="Expected Graduation: Spring 2026"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -33,7 +33,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Srinakharinwirot University</h3>
-            <h4 className="vertical-timeline-element-subtitle">Bangkoj, Thailand</h4>
+            <h4 className="vertical-timeline-element-subtitle">Bangkok, Thailand</h4>
             <p>
               Bachelor's Degree Social Communication Innovation, Interactive and Multimedia Design Major. 
             </p>
